@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: 1.4.2_04-b05 (Sun Microsystems Inc.)
+MIDlet-Name: ZooTycoon2 SEfan.RU
+MIDlet-Version: 01.01.75
+MIDlet-Vendor: In-Fusio
+MIDlet-Icon: /icon.png
+MIDlet-Data-Size: 50000
+MIDlet-1: ZooTycoon2 SEfan.RU, /icon.png, ZooMIDlet
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
